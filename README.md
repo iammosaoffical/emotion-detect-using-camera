@@ -10,6 +10,10 @@ This is a program which using your front camera can detect emotions of a person
 we can download the data from
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
+we have chosen 7 catagories of images 
+
+Angry Happy Neutral Sad Surprise Disgust Fear
+
 # Task
 
 Our task is to use camera of the user and classify what is the emotion of the user

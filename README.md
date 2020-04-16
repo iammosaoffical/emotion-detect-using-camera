@@ -28,7 +28,8 @@ we have used a cnn (convolutional neural network) (deep leaning) for this
 4) run usemodelcamera
 
 
-you dont need to download data or retrain the model
+You dont need to download data or retrain the model 
+Just run that file
 
 
 

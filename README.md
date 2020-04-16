@@ -26,6 +26,8 @@ we have used a cnn (convolutional neural network) (deep leaning) for this
 2) download haarcascade_frontalface 
 3) download usemodelcamera
 4) run usemodelcamera
+
+
 you dont need to download data or retrain the model
 
 

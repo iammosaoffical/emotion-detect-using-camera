@@ -21,4 +21,11 @@ Our task is to use camera of the user and classify what is the emotion of the us
 # Model 
 we have used a cnn (convolutional neural network) (deep leaning) for this 
 
+# How to run the model
+download mooosa.h5 file
+download haarcascade_frontalface 
+download usemodelcamera
+run usemodelcamera
+
+
 
